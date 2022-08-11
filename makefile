@@ -1,8 +1,8 @@
 # assignment name (generate executable with this name)
-TARGET = proj9
+TARGET = proj10
 TEST_TARGET = tester
 # .cpp files that do not contain a main() function.
-SOURCES = ArrayQueue.cpp
+SOURCES =
 
 CPP       = g++ --std=c++11 -c
 CPPFLAGS   = -Wall -I. -g

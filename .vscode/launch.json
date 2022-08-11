@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "(gdb) Launch proj9",
+            "name": "(gdb) Launch proj10",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/proj9",
+            "program": "${workspaceFolder}/proj10",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
